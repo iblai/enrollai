@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
+    },
+    "iblai-account": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "67d10a5a1ddaf2dd76b3069c226d5828d08786d3c12538e1b6ada415c1d07b9f"
+    },
+    "iblai-analytics": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "1d12506b891877b2ff0c36298b022576e5d9ebd8451c0968e2a0932f51d315e0"
+    },
+    "iblai-auth": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "d42f3d3fcc296c210bbe18df4cda3d1ce6275ba88c9f1a2326dbfadcf1fa205d"
+    },
+    "iblai-build": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "ac36b11d9f3df33ccc305e5032f474032123532a940e2af4ed41cd93cb73405b"
+    },
+    "iblai-chat": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "3fdf835839535cfaedafa4aea106611efae89e61bb201065ea9cad3133733ca5"
+    },
+    "iblai-component": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "64a3097f8b71affc533e31e0fc15df3b484e6a01b2e580eadba94164d8fe489e"
+    },
+    "iblai-deploy": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "fd2ee1f92401be041e5c1149bdff883094454e8d57e5c7e251eb0c3e68abd220"
+    },
+    "iblai-init": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "bf0f18e52dbe69c0a9835c1768df71d5bb1c905b1560bd88a8d976d1591ce61d"
+    },
+    "iblai-invite": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "3f1df168f169a0a51af1d73a9a266b2c8799fb3a9f60ed1d3ae5898968c3e457"
+    },
+    "iblai-notification": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "e667e3a844996291b37685e833b4f684812ac72be3c6f264809355e7c272ba1a"
+    },
+    "iblai-onboard": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "d281a2466f28ae86b73e1070db5a1d9826ed45cb515b720bffa42e3581abc6ed"
+    },
+    "iblai-profile": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "9d06d4d8d10668640d413f1a532928767ba9ac0e2d2adcf7b6690840344c7723"
+    },
+    "iblai-screenshot": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "1cf805c5290669a03aecb5eb792ae927cec7167fb9ccd3361bf5357e71540344"
+    },
+    "iblai-test": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "14cd5a19c252001e6a33725e255a214813acc82f0804437f6eddf54270e40742"
+    },
+    "iblai-workflow": {
+      "source": "iblai/vibe",
+      "sourceType": "github",
+      "computedHash": "a552e48d7608a353db72f5e92fd2fa5900c45aac1e8b85e9bf00fc7c4a7dfc8b"
+    }
+  }
+}
