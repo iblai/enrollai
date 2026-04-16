@@ -29,6 +29,13 @@ EnrollAI is an AI-powered admissions app built on the [ibl.ai](https://ibl.ai) p
 | **SSO Authentication** | Login via iblai.app — no tokens to manage |
 | **Notifications** | Bell icon with unread badge across all views |
 
+
+![Home Page](https://github.com/iblai/enrollai/raw/refs/heads/main/docs/screenshots/enrollai-1.png)
+![Document Upload Page](https://github.com/iblai/enrollai/raw/refs/heads/main/docs/screenshots/enrollai-2.png)
+![Application Page](https://github.com/iblai/enrollai/raw/refs/heads/main/docs/screenshots/enrollai-3.png)
+![Welcome Page](https://github.com/iblai/enrollai/raw/refs/heads/main/docs/screenshots/enrollai-4.png)
+![Application Chat Page](https://github.com/iblai/enrollai/raw/refs/heads/main/docs/screenshots/enrollai-5.png)
+
 ## AGENTS.md / CLAUDE.md
 
 Please refer to the `CLAUDE.md` at the repository root for more information.
